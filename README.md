@@ -123,7 +123,7 @@ Loan-Analytics-Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jasika-Kumari/Loan-Analytics-Project-Risk-Approval-Insights.git
+   git clone https://github.com/BhanuPrakashPandey0843/Loan.git
    cd Loan-Analytics-Project-Risk-Approval-Insights
 
 
@@ -164,9 +164,3 @@ This project brings together the strengths of Python, SQL, and Power BI to perfo
 
 
 ---
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/BhanuPrakashPandey0843/Loan.git
-git push -u origin main
